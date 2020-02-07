@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41019" started-at="2020-02-02T07:46:58Z" finished-at="2020-02-02T07:47:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41019" started-at="2020-02-02T07:46:58Z" finished-at="2020-02-02T07:47:40Z">
+      <class name="com.crm.autoDeskAmazonTest.ComparePriceTest">
+        <test-method status="PASS" signature="lanchBrowser()[pri:0, instance:com.crm.autoDeskAmazonTest.ComparePriceTest@62ee68d8]" name="lanchBrowser" is-config="true" duration-ms="10256" started-at="2020-02-02T13:16:59Z" finished-at="2020-02-02T13:17:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchBrowser -->
+        <test-method status="PASS" signature="openAmazon()[pri:0, instance:com.crm.autoDeskAmazonTest.ComparePriceTest@62ee68d8]" name="openAmazon" is-config="true" duration-ms="16793" started-at="2020-02-02T13:17:09Z" finished-at="2020-02-02T13:17:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAmazon -->
+        <test-method status="PASS" signature="amazonIn()[pri:0, instance:com.crm.autoDeskAmazonTest.ComparePriceTest@62ee68d8]" name="amazonIn" duration-ms="9788" started-at="2020-02-02T13:17:26Z" finished-at="2020-02-02T13:17:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonIn -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.crm.autoDeskAmazonTest.ComparePriceTest@62ee68d8]" name="closeBrowser" is-config="true" duration-ms="4150" started-at="2020-02-02T13:17:35Z" finished-at="2020-02-02T13:17:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.crm.autoDeskAmazonTest.ComparePriceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
